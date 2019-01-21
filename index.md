@@ -12,7 +12,7 @@
     <br>
     <div id="wrapper">
           <section>
-              <img class="myimage" src="steier.jpg"/>
+              <img class="myimage" src="steier.jpg">
               <br>
               <p>
                   Senior student adding an undergraduate MIS degree to a BSBA (Economics), MBA, JD. Working towards
